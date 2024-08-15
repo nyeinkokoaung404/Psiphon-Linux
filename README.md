@@ -51,4 +51,4 @@ You will need to edit the `psiphon.config` file and change the `"EgressRegion":"
 02/08/2024: PsiphonLinux v2.01 Beta
 - Moving into open beta testing. The majority of the code has been tested and found to be in working order from multiple users down. However it is not up to the quality I would like to get it to eventually so for now its in beta
 - Modified `How do I choose a region to connect to?` in the FAQ to provide accurate instructions.
-- Added `"EgressRegion":"US"` to `psiphon.config` to allow accessible changing of regions
+- Added `"EgressRegion":"SG"` to `psiphon.config` to allow accessible changing of regions
